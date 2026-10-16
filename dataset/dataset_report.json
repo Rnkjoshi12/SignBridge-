@@ -1,0 +1,324 @@
+{
+  "timestamp": "2026-10-15 23:53:33",
+  "total_categories": 31,
+  "total_images": 1860,
+  "split_summary": {
+    "train": 1302,
+    "val": 279,
+    "test": 279
+  },
+  "total_overlay_pixels_inpainted": 5153834,
+  "categories": {
+    "again": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 154568
+    },
+    "agree": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 157377
+    },
+    "answer": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 160829
+    },
+    "attendance": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 191589
+    },
+    "book": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 150613
+    },
+    "break": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 156041
+    },
+    "careful": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 160775
+    },
+    "congratulations": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 216212
+    },
+    "good morning": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 203497
+    },
+    "happy birthday": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 213287
+    },
+    "home": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 152557
+    },
+    "how are you": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 183779
+    },
+    "hungry": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 159623
+    },
+    "i need help": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 184869
+    },
+    "keepsmile": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 187705
+    },
+    "meet": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 150726
+    },
+    "mistake": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 169801
+    },
+    "please": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 163034
+    },
+    "practice": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 170300
+    },
+    "pressure": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 172361
+    },
+    "sick": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 144046
+    },
+    "stop": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 147033
+    },
+    "sun": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 138305
+    },
+    "team": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 150136
+    },
+    "thirsty": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 157934
+    },
+    "this": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 141130
+    },
+    "together": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 175860
+    },
+    "understand": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 190258
+    },
+    "wait": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 144263
+    },
+    "where": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 156657
+    },
+    "write": {
+      "total_images": 60,
+      "train": 42,
+      "val": 9,
+      "test": 9,
+      "dimensions": [
+        "1280x720"
+      ],
+      "text_overlay_removed_pixels": 148669
+    }
+  },
+  "elapsed_sec": 29.34
+}

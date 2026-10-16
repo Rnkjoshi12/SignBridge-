@@ -1,0 +1,37 @@
+path: D:\SignBridge\SignBridge\dataset\yolov5_cls
+train: D:\SignBridge\SignBridge\dataset\yolov5_cls\train
+val: D:\SignBridge\SignBridge\dataset\yolov5_cls\val
+test: D:\SignBridge\SignBridge\dataset\yolov5_cls\test
+nc: 31
+names:
+- again
+- agree
+- answer
+- attendance
+- book
+- break
+- careful
+- congratulations
+- good morning
+- happy birthday
+- home
+- how are you
+- hungry
+- i need help
+- keepsmile
+- meet
+- mistake
+- please
+- practice
+- pressure
+- sick
+- stop
+- sun
+- team
+- thirsty
+- this
+- together
+- understand
+- wait
+- where
+- write

@@ -1,0 +1,31 @@
+# SignBridge - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML and Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=9.5.0
+
+# Desktop UI
+PySide6>=6.5.0
+
+# Machine Learning Utilities & YOLOv5 Dependencies
+scikit-learn>=1.3.0
+pyyaml>=5.3.1
+ultralytics>=8.0.0
+ultralytics-thop>=2.0.0
+pandas>=1.1.4
+seaborn>=0.11.0
+tqdm>=4.64.0
+psutil>=5.9.0
+
+# Evaluation and Visualization (for training/evaluation scripts)
+matplotlib>=3.7.0
+
+# Testing
+pytest>=7.0.0
+
+# TTS (macOS uses built-in 'say' command; Windows uses native SAPI / fallback)
+
