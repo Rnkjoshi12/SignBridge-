@@ -1,5 +1,5 @@
 # SignBridge — Real-Time Sign Language Recognition Assistant (Powered by YOLOv5)
-Team Members - Manan Mali, Rounak Joshi, Aryan Soni
+# Team Members - Manan Mali, Rounak Joshi, Aryan Soni
 
 SignBridge is an intelligent desktop application that recognizes sign language gestures from a live webcam feed in real time, displays recognized words in an interactive conversation panel, dictates every word aloud via text-to-speech, and provides full transcript replay and a searchable sign library.
 
